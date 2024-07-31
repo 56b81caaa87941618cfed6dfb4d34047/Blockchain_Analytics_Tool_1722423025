@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the 'Hello World' button to be placed within the app?\", \"option1\": \"In the navbar\", \"option2\": \"On the main page below the navbar\"}, {\"question 2\": \"Do you have any specific color or style preferences for the 'Hello World' button?\", \"option1\": \"Use the app's primary theme colors\", \"option2\": \"Use a distinctive color to make it stand out\"}], \"input_token_count\": 342, \"output_token_count\": 104, \"time_taken\": \"0:00:04.134747\"}",
+        "message_id": "guest31072024105544",
+        "timestamp": "31072024105550",
+        "component_file_name": "simple_cta_component_1722423028",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Got it. Adding a button that says hello world.",
         "message_id": "guest31072024105544",
