@@ -42,5 +42,11 @@
         "content": "Got it, I'll add a navbar with home, about, and contact.",
         "timestamp": "31072024105216",
         "message_id": "guest31072024105215"
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Do you have a preferred design style or theme for the navbar to ensure it aligns with the overall app aesthetic?\", \"option1\": \"Yes, I have specific design preferences or samples.\", \"option2\": \"No, I'm open to suggestions based on current web design trends.\"}, {\"question 2\": \"Should the navbar be fixed at the top of the screen as users scroll, or disappear and reappear upon scroll?\", \"option1\": \"Yes, make the navbar fixed at the top.\", \"option2\": \"No, make the navbar disappear and reappear on scroll.\"}], \"input_token_count\": 266, \"output_token_count\": 132, \"time_taken\": \"0:00:04.263218\"}",
+        "timestamp": "31072024105220",
+        "message_id": "guest31072024105215"
     }
 ]
