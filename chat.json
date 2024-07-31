@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Interactive dashboard for real-time blockchain data analysis\", \"checked\": true}, {\"feature\": \"Customizable widget system for users to choose what data they see on the homepage\", \"checked\": false}, {\"feature\": \"Advanced search feature to filter through blockchain transactions, blocks, and addresses\", \"checked\": false}, {\"feature\": \"Dark and light mode for user interface comfort\", \"checked\": true}, {\"feature\": \"Notification system for blockchain events or specific criteria set by the user\", \"checked\": false}, {\"feature\": \"API integration for third-party blockchain data\", \"checked\": false}], \"input_token_count\": 296, \"output_token_count\": 136, \"time_taken\": \"0:00:06.539359\"}",
+        "message_id": "guest31072024105544",
+        "timestamp": "31072024105552",
+        "component_file_name": "simple_cta_component_1722423028",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the 'Hello World' button to be placed within the app?\", \"option1\": \"In the navbar\", \"option2\": \"On the main page below the navbar\"}, {\"question 2\": \"Do you have any specific color or style preferences for the 'Hello World' button?\", \"option1\": \"Use the app's primary theme colors\", \"option2\": \"Use a distinctive color to make it stand out\"}], \"input_token_count\": 342, \"output_token_count\": 104, \"time_taken\": \"0:00:04.134747\"}",
         "message_id": "guest31072024105544",
