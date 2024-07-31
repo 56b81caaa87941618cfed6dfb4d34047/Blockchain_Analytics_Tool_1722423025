@@ -1,5 +1,14 @@
 [
     {
+        "role": "user",
+        "content": "add a button that says hey there",
+        "message_id": "guest31072024110050",
+        "timestamp": "31072024110050",
+        "component_file_name": "simple_cta_component_1722423028",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_ui_checklist",
         "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Interactive dashboard for real-time blockchain data analysis\", \"checked\": true}, {\"feature\": \"Customizable widget system for users to choose what data they see on the homepage\", \"checked\": false}, {\"feature\": \"Advanced search feature to filter through blockchain transactions, blocks, and addresses\", \"checked\": false}, {\"feature\": \"Dark and light mode for user interface comfort\", \"checked\": true}, {\"feature\": \"Notification system for blockchain events or specific criteria set by the user\", \"checked\": false}, {\"feature\": \"API integration for third-party blockchain data\", \"checked\": false}], \"input_token_count\": 296, \"output_token_count\": 136, \"time_taken\": \"0:00:06.539359\"}",
         "message_id": "guest31072024105544",
