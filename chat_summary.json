@@ -1,64 +1,98 @@
 [
     {
-        "role": "makeinfinite",
-        "content": "Can you describe the project a bit more?",
-        "message_id": "project_init",
-        "timestamp": "1722423027",
-        "component_file_name": "",
-        "div_id": ""
-    },
-    {
-        "role": "user",
-        "content": "add a button that says hello world",
-        "timestamp": "31072024105059",
-        "message_id": "guest31072024105059"
-    },
-    {
-        "role": "chat_acknowledge",
-        "content": "Great, adding a button that says \"Hello World\".",
-        "timestamp": "31072024105100",
-        "message_id": "guest31072024105059"
-    },
-    {
         "role": "chat_qna",
-        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the 'Hello World' button to be positioned within the app?\", \"option1\": \"On the main screen, centrally positioned\", \"option2\": \"In the app's menu or settings\"}, {\"question 2\": \"What action should occur when the 'Hello World' button is pressed?\", \"option1\": \"Display a 'Hello World' message on the screen\", \"option2\": \"Navigate to a new page with more information\"}], \"input_token_count\": 261, \"output_token_count\": 107, \"time_taken\": \"0:00:03.736248\"}",
-        "timestamp": "31072024105104",
-        "message_id": "guest31072024105059"
-    },
-    {
-        "role": "chat_ui_checklist",
-        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Hello World button to trigger blockchain information updates\", \"checked\": true}, {\"feature\": \"Real-time data visualization of blockchain transactions\", \"checked\": false}, {\"feature\": \"Interactive charts and graphs for analyzing blockchain trends\", \"checked\": true}, {\"feature\": \"Search functionality to look up specific blockchain data\", \"checked\": true}, {\"feature\": \"Filter options to refine blockchain data results\", \"checked\": true}, {\"feature\": \"Notification alerts for significant blockchain events\", \"checked\": false}], \"input_token_count\": 215, \"output_token_count\": 105, \"time_taken\": \"0:00:05.680583\"}",
-        "timestamp": "31072024105106",
-        "message_id": "guest31072024105059"
-    },
-    {
-        "role": "user",
-        "content": "add a navbar with the navlink home, about and contact",
-        "timestamp": "31072024105215",
-        "message_id": "guest31072024105215"
-    },
-    {
-        "role": "chat_acknowledge",
-        "content": "Got it, I'll add a navbar with home, about, and contact.",
-        "timestamp": "31072024105216",
-        "message_id": "guest31072024105215"
-    },
-    {
-        "role": "chat_qna",
-        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Do you have a preferred design style or theme for the navbar to ensure it aligns with the overall app aesthetic?\", \"option1\": \"Yes, I have specific design preferences or samples.\", \"option2\": \"No, I'm open to suggestions based on current web design trends.\"}, {\"question 2\": \"Should the navbar be fixed at the top of the screen as users scroll, or disappear and reappear upon scroll?\", \"option1\": \"Yes, make the navbar fixed at the top.\", \"option2\": \"No, make the navbar disappear and reappear on scroll.\"}], \"input_token_count\": 266, \"output_token_count\": 132, \"time_taken\": \"0:00:04.263218\"}",
-        "timestamp": "31072024105220",
-        "message_id": "guest31072024105215"
-    },
-    {
-        "role": "user",
-        "content": "add a button that says hello world",
-        "timestamp": "31072024105544",
-        "message_id": "guest31072024105544"
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the 'Hello World' button to be placed within the app?\", \"option1\": \"In the navbar\", \"option2\": \"On the main page below the navbar\"}, {\"question 2\": \"Do you have any specific color or style preferences for the 'Hello World' button?\", \"option1\": \"Use the app's primary theme colors\", \"option2\": \"Use a distinctive color to make it stand out\"}], \"input_token_count\": 342, \"output_token_count\": 104, \"time_taken\": \"0:00:04.134747\"}",
+        "message_id": "guest31072024105544",
+        "timestamp": "31072024105550",
+        "component_file_name": "simple_cta_component_1722423028",
+        "div_id": "",
+        "div_action": ""
     },
     {
         "role": "chat_acknowledge",
         "content": "Got it. Adding a button that says hello world.",
+        "message_id": "guest31072024105544",
         "timestamp": "31072024105546",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "user",
+        "content": "add a button that says hello world",
+        "message_id": "guest31072024105544",
+        "timestamp": "31072024105544",
+        "component_file_name": "simple_cta_component_1722423028",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Do you have a preferred design style or theme for the navbar to ensure it aligns with the overall app aesthetic?\", \"option1\": \"Yes, I have specific design preferences or samples.\", \"option2\": \"No, I'm open to suggestions based on current web design trends.\"}, {\"question 2\": \"Should the navbar be fixed at the top of the screen as users scroll, or disappear and reappear upon scroll?\", \"option1\": \"Yes, make the navbar fixed at the top.\", \"option2\": \"No, make the navbar disappear and reappear on scroll.\"}], \"input_token_count\": 266, \"output_token_count\": 132, \"time_taken\": \"0:00:04.263218\"}",
+        "message_id": "guest31072024105215",
+        "timestamp": "31072024105220",
+        "component_file_name": "simple_footer_component_1722423028",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Got it, I'll add a navbar with home, about, and contact.",
+        "message_id": "guest31072024105215",
+        "timestamp": "31072024105216",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "user",
+        "content": "add a navbar with the navlink home, about and contact",
+        "message_id": "guest31072024105215",
+        "timestamp": "31072024105215",
+        "component_file_name": "simple_footer_component_1722423028",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Hello World button to trigger blockchain information updates\", \"checked\": true}, {\"feature\": \"Real-time data visualization of blockchain transactions\", \"checked\": false}, {\"feature\": \"Interactive charts and graphs for analyzing blockchain trends\", \"checked\": true}, {\"feature\": \"Search functionality to look up specific blockchain data\", \"checked\": true}, {\"feature\": \"Filter options to refine blockchain data results\", \"checked\": true}, {\"feature\": \"Notification alerts for significant blockchain events\", \"checked\": false}], \"input_token_count\": 215, \"output_token_count\": 105, \"time_taken\": \"0:00:05.680583\"}",
+        "message_id": "guest31072024105059",
+        "timestamp": "31072024105106",
+        "component_file_name": "simple_header_component_1722423028",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the 'Hello World' button to be positioned within the app?\", \"option1\": \"On the main screen, centrally positioned\", \"option2\": \"In the app's menu or settings\"}, {\"question 2\": \"What action should occur when the 'Hello World' button is pressed?\", \"option1\": \"Display a 'Hello World' message on the screen\", \"option2\": \"Navigate to a new page with more information\"}], \"input_token_count\": 261, \"output_token_count\": 107, \"time_taken\": \"0:00:03.736248\"}",
+        "message_id": "guest31072024105059",
+        "timestamp": "31072024105104",
+        "component_file_name": "simple_header_component_1722423028",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Great, adding a button that says \"Hello World\".",
+        "message_id": "guest31072024105059",
+        "timestamp": "31072024105100",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "user",
+        "content": "add a button that says hello world",
+        "message_id": "guest31072024105059",
+        "timestamp": "31072024105059",
+        "component_file_name": "simple_header_component_1722423028",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "summary",
+        "content": "Can you describe the project a bit more?",
+        "timestamp": "31072024105550",
         "message_id": "guest31072024105544"
     }
 ]
